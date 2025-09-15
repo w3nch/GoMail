@@ -16,4 +16,4 @@ GoMail is a robust and efficient command-line tool written in Go, designed to ve
 You can install GoMail using `go get`:
 
 ```sh
-go get -u github.com/yourusername/GoMail
+go get -u github.com/w3nch/GoMail.git
