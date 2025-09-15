@@ -1,6 +1,6 @@
-# GoRify
+# GoMail
 
-GoRify is a robust and efficient command-line tool written in Go, designed to verify the validity of email addresses. Whether you're cleaning up your email list, checking user input, or validating emails for any other reason, GoRify provides a simple and powerful solution.
+GoMail is a robust and efficient command-line tool written in Go, designed to verify the validity of email addresses. Whether you're cleaning up your email list, checking user input, or validating emails for any other reason, GoMail provides a simple and powerful solution.
 
 ## Features
 
@@ -13,7 +13,7 @@ GoRify is a robust and efficient command-line tool written in Go, designed to ve
 
 ## Installation
 
-You can install GoRify using `go get`:
+You can install GoMail using `go get`:
 
 ```sh
-go get -u github.com/yourusername/gorify
+go get -u github.com/yourusername/GoMail
